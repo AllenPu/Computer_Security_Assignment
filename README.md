@@ -9,4 +9,4 @@ Script and files
 The simple C++ script is to overwrite the txt content
 
 For Q1 STEP2 : 
-![]()
+![](https://github.com/AllenPu/Computer_Security_Assignment/blob/master/Screenshot%20(4).png)
