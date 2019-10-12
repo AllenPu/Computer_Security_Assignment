@@ -4,6 +4,8 @@ As you can see , the very first step is the main.cpp which implemented the requi
 
 The file follows the rule:
   main.cpp ->compile to .o file -> than link to .exe file
+  
+I also attached the encrypted file.
 
 Script and files  
 The simple C++ script is to overwrite the txt content
